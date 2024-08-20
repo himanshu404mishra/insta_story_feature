@@ -2,7 +2,8 @@
 # insta_story_feature
 
 ### This is fourth mini project of real life dom-projects repo list
-
+#### drag the stories to left, to see the stories on right and click on the respective stories to open them,
+#### also the stories close themselves within some seconds 
 * list
   1. [first](https://github.com/himanshu404mishra/add-friend-feature)
   2. [second](https://github.com/himanshu404mishra/custom_cursor)
